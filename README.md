@@ -45,12 +45,7 @@ Technologies Used
   - `ConsoleTypeEffect` (typing animation effect)
   - `Chatbot` (main interaction logic)
 
- How to Run
-
-1. Open the project in Visual Studio or any C# IDE.
-2. Ensure all dependent classes (`SoundManager.cs`, `ConsoleTypeEffect.cs`, `LogoDisplay.cs`) are included in the project.
-3. Set `Chatbot.cs` as the startup file.
-4. Run the program and interact with the chatbot via the console.
+ 
 
 
 
